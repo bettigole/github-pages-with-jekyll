@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Charlie Bettigole - Personal Page"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome! Here's where you'll find links to my code and courses
+
+*Wow!*
